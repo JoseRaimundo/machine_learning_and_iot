@@ -25,7 +25,7 @@ O Raspbian foi o sistema operacional utilizado, trata-se de uma versão resumida
 
 Para este experimento, foram utilizados diversas situações aplicáveis em cenários IoT reais.
 
-### Classificação de Numeração de Residências
+### Application 1: Classificação de Numeração de Residências
 
 Descrição:
 
@@ -33,7 +33,7 @@ Banco utilizado:
 
 Configuração genérica da redes neural:
 
-### Classificação de Consumo de Energia 
+### Application 2: Classificação de Consumo de Energia
 
 Descrição:
 
@@ -41,10 +41,10 @@ Banco utilizado:
 
 Configuração genérica da redes neural:
 
-### Predição de Rota de Carros
+### Application 3: Predição de Rota de Carros
 
- Descrição:
- 
+Descrição:
+
 Banco utilizado:
 
 Configuração genérica da redes neural:
