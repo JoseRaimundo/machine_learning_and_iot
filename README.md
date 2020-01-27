@@ -5,7 +5,7 @@ Este repositório é destinado para versionamento de código de um experimento q
 Na atual etapa da proposta, foram analisadas as seguintes bibliotecas:
 
  - [TensorFlow v 2.0](https://www.tensorflow.org/): Uma plataforma de código aberto de ponta a ponta para aprendizado de máquina. Possui um ecossistema abrangente e flexível de ferramentas, bibliotecas e recursos da comunidade que permite que os pesquisadores desenvolvam o que há de mais moderno em ML e os desenvolvedores construam e implantem facilmente aplicativos desenvolvidos por ML (Descrição oficial).
- - [Pytorch v 1.0]((https://pytorch.org/)): PyTorch is an optimized tensor library for deep learning using GPUs and CPUs (Descrição oficial).
+ - [Pytorch v 1.0](https://pytorch.org/): PyTorch is an optimized tensor library for deep learning using GPUs and CPUs (Descrição oficial).
  - Futuramente outras bibliotecas serão avaliadas.
 
 
@@ -19,7 +19,7 @@ O Raspbian foi o sistema operacional utilizado, trata-se de uma versão resumida
 
  - Instruções para instalação do TensorFlow [Aqui](https://www.tensorflow.org/install/source_rpi)
  - Instruções para instalação do Pytorch [Aqui](https://medium.com/secure-and-private-ai-writing-challenge/a-step-by-step-guide-to-installing-pytorch-in-raspberry-pi-a1491bb80531)
- - Instruções para instaçã odo Pytorch V4 (ainda não testado) [Aqui]([https://medium.com/hardware-interfacing/how-to-install-pytorch-v4-0-on-raspberry-pi-3b-odroids-and-other-arm-based-devices-91d62f2933c7](https://medium.com/hardware-interfacing/how-to-install-pytorch-v4-0-on-raspberry-pi-3b-odroids-and-other-arm-based-devices-91d62f2933c7))
+ - Instruções para instaçã odo Pytorch V4 (ainda não testado) [Aqui](https://medium.com/hardware-interfacing/how-to-install-pytorch-v4-0-on-raspberry-pi-3b-odroids-and-other-arm-based-devices-91d62f2933c7)
 
 ## Descrição dos Experimentos
 
@@ -33,7 +33,7 @@ Banco utilizado:
 
 Configuração genérica da redes neural:
 
-### Classificação de Consumo de Energia
+### Classificação de Consumo de Energia 
 
 Descrição:
 
@@ -43,8 +43,8 @@ Configuração genérica da redes neural:
 
 ### Predição de Rota de Carros
 
-Descrição:
-
+ Descrição:
+ 
 Banco utilizado:
 
 Configuração genérica da redes neural:
