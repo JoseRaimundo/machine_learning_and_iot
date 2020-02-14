@@ -30,8 +30,8 @@ def split_list(data_dir, train_dir, test_dir):
             shutil.move(src, train_dir)
 
 # Carregando dados
-PATH_DATA = '../../../databases/cnn'
-data_dir = os.path.join(PATH_DATA, 'data')
+PATH_DATA = '../../databases/cnn/flowers-recognition'
+data_dir = os.path.join(PATH_DATA, 'flowers')
 train_dir = os.path.join(PATH_DATA, 'train')
 test_dir = os.path.join(PATH_DATA, 'test')
 total_train = 0

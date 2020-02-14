@@ -29,7 +29,9 @@ Para este experimento, foram utilizados diversas situações aplicáveis em cen�
 
 Descrição:
 
-Banco utilizado:
+Banco utilizado: https://www.kaggle.com/alxmamaev/flowers-recognition
+
+Uso: https://www.kaggle.com/alxmamaev/flowers-recognition
 
 Configuração genérica da redes neural:
 

@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Carregando dados
-PATH_DATA = '../../../databases/cnn'
+PATH_DATA = '../../databases/cnn/flowers-recognition'
 data_dir = os.path.join(PATH_DATA, 'data')
 train_dir = os.path.join(PATH_DATA, 'train')
 test_dir = os.path.join(PATH_DATA, 'test')
