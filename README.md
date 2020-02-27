@@ -39,7 +39,7 @@ Configuração genérica da redes neural:
 
 Descrição:
 
-Banco utilizado:
+Banco utilizado: https://www.kaggle.com/taranvee/smart-home-dataset-with-weather-information
 
 Configuração genérica da redes neural:
 
