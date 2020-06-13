@@ -15,10 +15,8 @@ def run_tensorflow(x_train, x_test, y_train, y_test, EPOCHS, batch_size):
       layers.Dense(1)
     ])
 
-    optimizer = tf.keras.optimizers.RMSprop(0.001)
-
     model.compile(loss='mse',
-                  optimizer=optimizer,
+                  optimizer=tf.keras.optimizers.RMSprop(0.001),
                   metrics=['mae', 'mse'])
     return model
 
