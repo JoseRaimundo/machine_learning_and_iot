@@ -1,1 +1,6 @@
 databases/smart_house
+src/classification/__pycache__
+src/regression/__pycache__
+databases/data
+src/cnn/data
+.gitignore

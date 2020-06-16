@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 from sklearn.model_selection import train_test_split
 
-DATA_PATH = '../../databases/winequality_red.csv'
+DATA_PATH = '../../databases/data/winequality_red.csv'
 EPOCHS = 1000
 BATCH_SIZE = 30
 
