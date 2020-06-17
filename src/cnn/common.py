@@ -40,8 +40,12 @@ def load_mnist(path, kind='train'):
 def laod_traing_test():
     X_train, y_train = load_mnist(DATASET_PATH, kind='train')
     X_test, y_test = load_mnist(DATASET_PATH, kind='t10k')
-    X_train = X_train.reshape((X_train.shape[0], 1, 28, 28))
-    X_test = X_test.reshape((X_test.shape[0], 1, 28, 28))
+    X_train = X_train.reshape((X_train.shape[0],  28, 28))
+    X_test = X_test.reshape((X_test.shape[0], 28, 28))
+
+    X_train = X_train / 255.0
+
+    X_test = X_test / 255.0
 
     return X_train, X_test, y_train, y_test
 
